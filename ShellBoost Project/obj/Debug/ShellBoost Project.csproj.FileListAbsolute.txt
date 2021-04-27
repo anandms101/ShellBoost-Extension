@@ -1,0 +1,16 @@
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\ShellBoost.2a40c485d95241b0b62572c9a754dd55.x64.dll
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\ShellBoost.2a40c485d95241b0b62572c9a754dd55.x86.dll
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\ShellBoost Project.exe.config
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\ShellBoost Project.exe
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\ShellBoost Project.pdb
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\ShellBoost.Core.dll
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\ShellBoost.Core.xml
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\obj\Debug\ShellBoost Project.csprojAssemblyReference.cache
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\obj\Debug\ShellBoost Project.csproj.CoreCompileInputs.cache
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\obj\Debug\ShellBoost Project.csproj.CopyComplete
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\obj\Debug\ShellBoost Project.exe
+C:\Users\Anand\source\repos\ShellBoost Project\ShellBoost Project\obj\Debug\ShellBoost Project.pdb
